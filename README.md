@@ -1,4 +1,4 @@
-#7 Days Of Code - Lógica JS 1/7: Operações Booleanas
+##7 Days Of Code - Lógica JS 1/7: Operações Booleanas
 
 Desafio 1:
 Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
